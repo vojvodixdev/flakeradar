@@ -60,6 +60,15 @@ export function App() {
         </Routes>
       </main>
 
+      <footer className="site-footer">
+        <div className="site-footer-inner">
+          <a className="nv-credit" href="https://vojvodixdev.github.io/" rel="author">
+            <NvMark />
+            <span>Made by Nikola Vojvodić</span>
+          </a>
+        </div>
+      </footer>
+
       <AdminTokenDialog open={askingToken} onSubmit={(t) => finish(t)} onCancel={() => finish(null)} />
     </div>
   );
@@ -72,6 +81,26 @@ function Logo() {
       <rect x="6" y="13" width="3" height="6" rx="1" className="logo-pass" />
       <rect x="11" y="3" width="3" height="16" rx="1" className="logo-fail" />
       <rect x="16" y="13" width="3" height="6" rx="1" className="logo-pass" />
+    </svg>
+  );
+}
+
+// Potpis autora: isti NV logo kao na portfoliju
+function NvMark() {
+  return (
+    <svg className="nv-mark" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+      <rect width="24" height="24" rx="6" fill="#4d8dff" />
+      <text
+        x="12"
+        y="16.2"
+        textAnchor="middle"
+        fontFamily="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        fontSize="10"
+        fontWeight="700"
+        fill="#020611"
+      >
+        NV
+      </text>
     </svg>
   );
 }
