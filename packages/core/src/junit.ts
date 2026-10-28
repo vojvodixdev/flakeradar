@@ -1,3 +1,4 @@
+// © 2026 Nikola Vojvodić · https://vojvodixdev.github.io/ · All rights reserved, see LICENSE. [nv:bd15f86565]
 import { XMLParser, XMLValidator } from 'fast-xml-parser';
 import type { ExecutionStatus, ParsedTestCase } from './types.js';
 

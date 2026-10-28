@@ -1,3 +1,4 @@
+// © 2026 Nikola Vojvodić · https://vojvodixdev.github.io/ · All rights reserved, see LICENSE. [nv:bd15f86565]
 /**
  * The signature visual of FlakeRadar: a test's recent history drawn like a
  * seismograph. Passes are short calm ticks, failures spike up in red, so the

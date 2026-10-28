@@ -1,3 +1,4 @@
+// © 2026 Nikola Vojvodić · https://vojvodixdev.github.io/ · All rights reserved, see LICENSE. [nv:bd15f86565]
 import crypto from 'node:crypto';
 import type { DB } from './db.js';
 import { HttpError, notFound, unauthorized } from './errors.js';

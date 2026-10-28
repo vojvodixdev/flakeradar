@@ -1,3 +1,4 @@
+// © 2026 Nikola Vojvodić · https://vojvodixdev.github.io/ · All rights reserved, see LICENSE. [nv:bd15f86565]
 /**
  * Realistic demo data, used by `npm run seed` and by the static demo build.
  *

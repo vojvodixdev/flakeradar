@@ -1,3 +1,4 @@
+// © 2026 Nikola Vojvodić · https://vojvodixdev.github.io/ · All rights reserved, see LICENSE. [nv:bd15f86565]
 import type { CreatedProject, ProjectListItem } from '@flakeradar/core';
 import { useState, type FormEvent } from 'react';
 import { Link } from 'react-router-dom';

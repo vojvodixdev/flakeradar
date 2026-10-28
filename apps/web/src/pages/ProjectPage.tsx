@@ -1,3 +1,4 @@
+// © 2026 Nikola Vojvodić · https://vojvodixdev.github.io/ · All rights reserved, see LICENSE. [nv:bd15f86565]
 import type { ProjectOverview, RunListItem, TestListItem, TestStatus } from '@flakeradar/core';
 import { Link, useParams, useSearchParams } from 'react-router-dom';
 import { api, PROJECTS_PATH } from '../api';

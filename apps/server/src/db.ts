@@ -1,3 +1,4 @@
+// © 2026 Nikola Vojvodić · https://vojvodixdev.github.io/ · All rights reserved, see LICENSE. [nv:bd15f86565]
 import fs from 'node:fs';
 import path from 'node:path';
 import Database from 'better-sqlite3';

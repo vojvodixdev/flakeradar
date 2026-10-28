@@ -1,3 +1,4 @@
+// © 2026 Nikola Vojvodić · https://vojvodixdev.github.io/ · All rights reserved, see LICENSE. [nv:bd15f86565]
 import { describe, expect, it } from 'vitest';
 import { COMMENT_MARKER, formatDuration, renderPullRequestComment, verdictFor } from './verdict.js';
 import type { RunFailure } from './types.js';

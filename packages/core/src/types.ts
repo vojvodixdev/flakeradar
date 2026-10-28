@@ -1,3 +1,4 @@
+// © 2026 Nikola Vojvodić · https://vojvodixdev.github.io/ · All rights reserved, see LICENSE. [nv:bd15f86565]
 /** Outcome of a single test execution as reported by the test runner. */
 export type ExecutionStatus = 'passed' | 'failed' | 'skipped';
 

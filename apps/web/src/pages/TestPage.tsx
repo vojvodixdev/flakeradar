@@ -1,3 +1,4 @@
+// © 2026 Nikola Vojvodić · https://vojvodixdev.github.io/ · All rights reserved, see LICENSE. [nv:bd15f86565]
 import type { HistoryEntry, TestDetail } from '@flakeradar/core';
 import { useMemo, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';

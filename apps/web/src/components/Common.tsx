@@ -1,3 +1,4 @@
+// © 2026 Nikola Vojvodić · https://vojvodixdev.github.io/ · All rights reserved, see LICENSE. [nv:bd15f86565]
 import { useEffect, useRef, useState, type ReactNode } from 'react';
 import { ApiRequestError } from '../api';
 

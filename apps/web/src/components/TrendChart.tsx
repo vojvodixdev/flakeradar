@@ -1,3 +1,4 @@
+// © 2026 Nikola Vojvodić · https://vojvodixdev.github.io/ · All rights reserved, see LICENSE. [nv:bd15f86565]
 import type { TrendPoint } from '@flakeradar/core';
 import { useState } from 'react';
 import { plural } from '../format';

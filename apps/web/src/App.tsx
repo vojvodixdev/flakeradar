@@ -1,3 +1,4 @@
+// © 2026 Nikola Vojvodić · https://vojvodixdev.github.io/ · All rights reserved, see LICENSE. [nv:bd15f86565]
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { Link, Navigate, Route, Routes } from 'react-router-dom';
 import { DEMO_START, IS_DEMO, onAdminTokenNeeded, PROJECTS_PATH } from './api';
@@ -64,7 +65,7 @@ export function App() {
         <div className="site-footer-inner">
           <a className="nv-credit" href="https://vojvodixdev.github.io/" rel="author">
             <NvMark />
-            <span>Made by Nikola Vojvodić</span>
+            <span>Made by Nikola Vojvodić · © 2026</span>
           </a>
         </div>
       </footer>

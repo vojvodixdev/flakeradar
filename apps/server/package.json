@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "description": "FlakeRadar API: ingests JUnit reports, stores history in SQLite and serves the dashboard.",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "type": "module",
   "main": "./dist/server.js",
   "scripts": {

@@ -1,3 +1,4 @@
+// © 2026 Nikola Vojvodić · https://vojvodixdev.github.io/ · All rights reserved, see LICENSE. [nv:bd15f86565]
 import { describe, expect, it } from 'vitest';
 import { JUnitParseError, parseJUnit, parseJUnitReports } from './junit.js';
 

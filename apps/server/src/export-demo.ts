@@ -1,3 +1,4 @@
+// © 2026 Nikola Vojvodić · https://vojvodixdev.github.io/ · All rights reserved, see LICENSE. [nv:bd15f86565]
 /**
  * Captures the API responses of a freshly seeded server into one JSON file,
  * so the dashboard can be published as a static demo without a backend.

@@ -1,3 +1,4 @@
+// © 2026 Nikola Vojvodić · https://vojvodixdev.github.io/ · All rights reserved, see LICENSE. [nv:bd15f86565]
 import { buildApp } from './app.js';
 import { loadConfig } from './config.js';
 import { openDatabase } from './db.js';

@@ -1,3 +1,4 @@
+// © 2026 Nikola Vojvodić · https://vojvodixdev.github.io/ · All rights reserved, see LICENSE. [nv:bd15f86565]
 import { CopyBlock } from './Common';
 
 /** The two things a team needs to do to start sending data. */

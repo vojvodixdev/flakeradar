@@ -2,7 +2,7 @@
   "name": "@flakeradar/core",
   "version": "0.1.0",
   "description": "JUnit parsing and flakiness scoring used by the FlakeRadar server.",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",

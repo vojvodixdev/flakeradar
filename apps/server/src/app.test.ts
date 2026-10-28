@@ -1,3 +1,4 @@
+// © 2026 Nikola Vojvodić · https://vojvodixdev.github.io/ · All rights reserved, see LICENSE. [nv:bd15f86565]
 import { fileURLToPath } from 'node:url';
 import { COMMENT_MARKER } from '@flakeradar/core';
 import type { CreatedProject, IngestResponse, ProjectOverview, TestDetail, TestListItem } from '@flakeradar/core';

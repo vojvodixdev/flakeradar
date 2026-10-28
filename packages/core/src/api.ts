@@ -1,3 +1,4 @@
+// © 2026 Nikola Vojvodić · https://vojvodixdev.github.io/ · All rights reserved, see LICENSE. [nv:bd15f86565]
 /**
  * Shapes of the HTTP API responses. Shared by the server (which produces
  * them) and the dashboard (which consumes them), so a breaking change is a
